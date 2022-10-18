@@ -1,9 +1,7 @@
-[Hux Blog](https://huangxuan.me)
+[Jonathan Blog](https://usrzch.github.io)
 ================================
 
 > I never expect this becomes popular.
-
-![](http://huangxuan.me/img/blog-desktop.jpg)
 
 
 [User Manual 👉](_doc/Manual.md)
